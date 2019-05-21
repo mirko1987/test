@@ -25,5 +25,8 @@
 //   display: flex;
 //   flex-flow: row wrap;
 // }
-.avatar {
+img {
+  max-width: 45px;
+  border: 0;
+  margin-top: 25px;
 }
