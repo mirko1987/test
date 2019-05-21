@@ -1,0 +1,12 @@
+.new-background-color {
+  --background: #ff3401;
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  max-width: 25%;
+  margin-top: 40px;
+  /* border: 0; */
+}

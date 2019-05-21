@@ -1,0 +1,29 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.new-background-color {
+  --background: #ff3401;
+  height: 75px;
+  // display: flex;
+  display: inline-flex;
+
+  justify-content: space-between;
+}
+.logo {
+  max-width: 25%;
+  margin-top: 45px;
+  /* border: 0; */
+}
+// .icon {
+//   display: flex;
+//   align-items: flex-end;
+// }
+
+// .header {
+//   display: flex;
+//   flex-flow: row wrap;
+// }
+.avatar {
+}
