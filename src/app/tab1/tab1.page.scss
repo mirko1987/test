@@ -1,8 +1,9 @@
-.welcome-card ion-img {
-  height: 80vh;
-  overflow: hidden;
+ion-card {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
-
 .new-background-color {
   --background: #ff3401;
   height: 75px;
@@ -14,17 +15,7 @@
 .logo {
   max-width: 25%;
   margin-top: 45px;
-  /* border: 0; */
 }
-// .icon {
-//   display: flex;
-//   align-items: flex-end;
-// }
-
-// .header {
-//   display: flex;
-//   flex-flow: row wrap;
-// }
 img {
   max-width: 45px;
   border: 0;
